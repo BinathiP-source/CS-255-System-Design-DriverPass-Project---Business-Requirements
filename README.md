@@ -1,2 +1,22 @@
 # CS-255-System-Design-DriverPass-Project---Business-Requirements
-DriverPass Project Business Requirements Document
+DriverPass Project - Portfolio Reflection
+
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+
+The client for this project is the DriverPass company whose target audience is to help students with the DMV practice and tests by offering various services. On the client’s requirements the system should be a web-based cloud system that can be accessed through a web browser, which can be used by many devices such as computers, laptops, tablets, and smart mobiles. The system should run fast in loading pages, processing, responding to user requests and payments within a few seconds. The system will be updated often when new updates are available. The system will run during all times except during downtimes of patching, fixing bugs, testing or updating. The system will update on packages, practice tests, courses and even the web layout once in a while to stay updated.
+
+What did you do particularly well?
+
+I did particularly well on understanding the client’s requirements for their system along with all the services the customer should be provided with. Understanding these requirements and services helped to clear ULM diagrams such as ULM use cases, activity diagrams and sequence diagrams. I did well in showing two different use cases, for each use case I displayed all the steps it takes from start to end of the task. I also addressed how the different participants are involved in a single task by displaying how the customer, DriverPass system and administrator/employee pass information for a single task. 
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+If I were to choose one part in my document to revise, I would choose the limitations section of the system design. We addressed all the limitations on resources, time, budget and technology. I would improve a limitation I mentioned, which was that since DriverPass will be available from multiple devices, this is a limitation that sets the product budget high to make it available on different devices and if not planned correctly it will result in high cost and low benefit. I would like to improve by addressing why the budget will be high if not planned correctly. Since DriverPass should be available on multiple devices, we must develop the full system for a computer first and complete it before developing it for other devices such as mobile, or tablets. This is because if we have programmers and developers design for all devices at once, the budget will be very help as we need more programmer to develop for all devices, but if complete the system for laptop/computer the product would be ready fast as it was the only system focused and the finish product will give a clear vision for programmer to continue developing the same for other devices. This allows for budget control and faster products.
+
+How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+
+I interpreted the user’s needs by understanding all the services DriverPass wants to provide for their customers and users. As well as doing further research from the interview document to understand all the different user needs and different perspectives that should be implemented. Considering the user’s needs is important because all different roles are important for the system. The customer needs products and services, and administrators/employees need a separate user account with special control to manage the web browser, provide maintenance, and have access to all user accounts to manage and provide customer service efficiently. 
+
+How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+
+On designing software, I would approach by using the techniques and strategies of understanding the clients product first. Similar to the interview documents that address all the needs of different users. This will help to analyze the type of system the client needs, requirements, all the different users that should have a different account in the system and the products/services that should be provided for the customers. As well as maintaining databases to store and retrieve data, using version controls to keep track of code and maintenance to fix bugs and add updates to keep the system ongoing.
