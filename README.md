@@ -5,7 +5,7 @@ DriverPass Project - Portfolio Reflection
 
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 
-        The client for this project is the DriverPass company whose target audience is to help students with the DMV practice and tests by offering various services. On the client’s requirements the system should be a web-based cloud system that can be accessed through a web browser, which can be used by many devices such as computers, laptops, tablets, and smart mobiles. The system should run fast in loading pages, processing, responding to user requests and payments within a few seconds. The system will be updated often when new updates are available. The system will run during all times except during downtimes of patching, fixing bugs, testing or updating. The system will update on packages, practice tests, courses and even the web layout once in a while to stay updated.
+The client for this project is the DriverPass company whose target audience is to help students with the DMV practice and tests by offering various services. On the client’s requirements the system should be a web-based cloud system that can be accessed through a web browser, which can be used by many devices such as computers, laptops, tablets, and smart mobiles. The system should run fast in loading pages, processing, responding to user requests and payments within a few seconds. The system will be updated often when new updates are available. The system will run during all times except during downtimes of patching, fixing bugs, testing or updating. The system will update on packages, practice tests, courses and even the web layout once in a while to stay updated.
 
 What did you do particularly well?
 
